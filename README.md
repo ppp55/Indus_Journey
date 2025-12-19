@@ -3,13 +3,11 @@
 This project is licensed under the **Creative Commons Attribution (CC-BY)** license.  
 This means institutions and collaborators have my legal permission to **translate, modify, and adapt** the materials, provided proper attribution is given to the original source.
 
-Subject: Release of the Book Reading Ancient Minds – An Indus Journey with ChatGPT
-Dear Sirs / Friends,
 I am happy to share that my book titled
 Reading Ancient Minds – An Indus Journey with ChatGPT
 was released on 18 December 2025 by our alumnus / alumni of eminence, as part of the Golden Jubilee Celebrations (GJC) of the Indian Institute of Science Alumni Association (IIScAA), marking 50 years of service to our Nation, Humanity, and our Alma Mater, IISc. The celebrations continue through Reunion 2025.
 
-This book is dedicated to IIScAA as part of its science outreach initiatives during the Golden Jubilee year.
+This book is dedicated to IIScAA as part of its science & rural outreach initiatives during the Golden Jubilee year.
 
 The soft copy of the book (both Word and PDF formats, including cover pages and main content) is freely available. The material may be translated, modified, adapted, or reworked to suit diverse educational needs, including translation into Indian languages. Readers may also experiment with LLMs as supporting tools during this process.
 
