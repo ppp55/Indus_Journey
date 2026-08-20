@@ -27,6 +27,8 @@ If we work together patiently and persistently, we can evolve better learning ma
 
 Regarding interpretation, I note for example that the first Thirukkural, which is often explained as equating the letter “A” for scripts with God as the first-origin of the universe, may also be read more deeply as affirming language, emotion, and expression as fundamental aspects of human existence.
 
+I am happy to add my works devloed through LLMs on Sumerian signs adn this work can also be used by scholars freely just by giving due refernce. This work is added as both Indus and Sumeian come under common lable as reading ancient signs, scripts and minds.
+
 The book can be accessed here: Intended to leave it as static
 👉 https://ppp55.github.io/Indus_Journey/
 With regards,
